@@ -114,17 +114,4 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-
-        <repository>
-            <id>maven-releases</id>
-            <url>http://maven.eventsboom.com/repository/maven-releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>maven-snapshots</id>
-            <url>http://maven.eventsboom.com/repository/maven-snapshots/</url>
-        </snapshotRepository>
-
-    </distributionManagement>
-
 </project>
